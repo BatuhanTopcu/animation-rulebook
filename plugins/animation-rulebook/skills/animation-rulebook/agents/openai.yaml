@@ -1,6 +1,8 @@
 interface:
   display_name: "Animation Rulebook"
   short_description: "Tool-independent craft for convincing 2D and 3D motion"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
   default_prompt: "Use $animation-rulebook to plan or improve this animation while preserving its intended style."
 policy:
   allow_implicit_invocation: true

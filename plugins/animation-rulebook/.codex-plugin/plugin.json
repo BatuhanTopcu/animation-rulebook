@@ -1,6 +1,6 @@
 {
   "name": "animation-rulebook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Research-informed animation craft: performance, movement, choreography, effects, perception, and visual storytelling across tools and styles.",
   "author": {
     "name": "batu",
@@ -23,6 +23,10 @@
     "shortDescription": "Craft convincing motion in any animation tool.",
     "longDescription": "A broad, scene-first animation craft library covering reference analysis, acting and dialogue, locomotion and interaction, timing, effects, procedural motion, temporal perception, cinematography, custom styles, and review. The classical twelve principles are one foundation within the library. One automatically discoverable skill loads relevant guidance without renderer, connector, or runtime dependencies.",
     "developerName": "batu",
+    "websiteURL": "https://github.com/BatuhanTopcu/animation-rulebook",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon.png",
     "category": "Productivity",
     "capabilities": [],
     "defaultPrompt": [
