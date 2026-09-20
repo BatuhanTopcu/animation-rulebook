@@ -1,0 +1,20 @@
+{
+  "name": "animation-rulebook",
+  "interface": {
+    "displayName": "Animation Rulebook"
+  },
+  "plugins": [
+    {
+      "name": "animation-rulebook",
+      "source": {
+        "source": "local",
+        "path": "./plugins/animation-rulebook"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

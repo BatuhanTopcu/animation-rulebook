@@ -1,0 +1,34 @@
+{
+  "name": "animation-rulebook",
+  "version": "0.1.0",
+  "description": "Research-informed animation craft: performance, movement, choreography, effects, perception, and visual storytelling across tools and styles.",
+  "author": {
+    "name": "batu",
+    "url": "https://github.com/BatuhanTopcu"
+  },
+  "homepage": "https://github.com/BatuhanTopcu/animation-rulebook",
+  "repository": "https://github.com/BatuhanTopcu/animation-rulebook",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "animation-principles",
+    "2d",
+    "3d",
+    "timing",
+    "motion-design"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Animation Rulebook",
+    "shortDescription": "Craft convincing motion in any animation tool.",
+    "longDescription": "A broad, scene-first animation craft library covering reference analysis, acting and dialogue, locomotion and interaction, timing, effects, procedural motion, temporal perception, cinematography, custom styles, and review. The classical twelve principles are one foundation within the library. One automatically discoverable skill loads relevant guidance without renderer, connector, or runtime dependencies.",
+    "developerName": "batu",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Plan an expressive animation in my chosen style.",
+      "Diagnose why this animation feels floaty or stiff.",
+      "Apply the animation rulebook to my next scene."
+    ]
+  }
+}
